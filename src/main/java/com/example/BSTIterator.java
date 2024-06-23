@@ -3,7 +3,7 @@ package com.example;
 import java.util.Stack;
 
 /**
- * Iterator implementation for iterating through a Binary Search Tree (BST) in ascending order.
+ * Iterator  implementation for iterating through a Binary Search Tree (BST) in ascending order.
  */
 public class BSTIterator {
     private final Stack<TreeNode> stack; // Stack to store nodes for inorder traversal

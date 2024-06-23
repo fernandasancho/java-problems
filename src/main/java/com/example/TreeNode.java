@@ -2,7 +2,7 @@ package com.example;
 
 
 /**
- * Represents a node in a Binary Search Tree (BST).
+ * Represents a node  in a Binary Search Tree (BST).
  */
 public class TreeNode {
     int key;        // The key value stored in the node
